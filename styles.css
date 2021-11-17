@@ -23,8 +23,9 @@
         
         .inner {
             background-color: white;
-            width: 35 vw;
-            height: 30 vh;
+          
+            width: 35%;
+            height: 30vh;
         }
         
         input {
