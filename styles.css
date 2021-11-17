@@ -1,14 +1,16 @@
         * {
             margin: 0px;
         }
-        
+        ul {
+       backgrond-color: pink
+        }
         h1 {
             text-align: left;
             color: palevioletred;
         }
         
         div {
-            padding: 100px;
+            padding: 120px;
             text-align: center;
             border-spacing: border-box;
         }
